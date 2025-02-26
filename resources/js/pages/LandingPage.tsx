@@ -10,7 +10,7 @@ export default function Welcome() {
             <div className="content">
                 <img src="logo.png" alt="PRFS Logo" className="logo" />
                 <h1>
-                    <span>Reserve with Ease</span>
+                    <span>Reserve with Ease | PUPTCRS</span>
                     <br />
                     Manage with Confidence
                 </h1>
