@@ -26,7 +26,7 @@ const Login: React.FC = () => {
 
     console.log("Logging in with:", { email, password });
     alert("Login successful! Redirecting...");
-    window.location.href = "/dashboard"; // Change this if using Inertia
+    window.location.href = "/dashboard"; 
   };
 
   return (
